@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pragunbhatt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pragunbhatt/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -14,6 +15,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pragunbhatt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pragunbhatt/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -43,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pragunbhatt/leetcode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/pragunbhatt/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/pragunbhatt/leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
