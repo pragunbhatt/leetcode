@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragunbhatt/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/pragunbhatt/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
@@ -51,6 +52,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragunbhatt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/pragunbhatt/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/pragunbhatt/leetcode/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragunbhatt/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragunbhatt/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/pragunbhatt/leetcode/tree/master/1480-running-sum-of-1d-array) |
