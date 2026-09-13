@@ -58,6 +58,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragunbhatt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/pragunbhatt/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pragunbhatt/leetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/pragunbhatt/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragunbhatt/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragunbhatt/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragunbhatt/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pragunbhatt/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
