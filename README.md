@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pragunbhatt/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/pragunbhatt/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragunbhatt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragunbhatt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -92,6 +93,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pragunbhatt/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragunbhatt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Counting Sort
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pragunbhatt/leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pragunbhatt/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
