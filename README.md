@@ -19,6 +19,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pragunbhatt/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pragunbhatt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pragunbhatt/leetcode/tree/master/0242-valid-anagram) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragunbhatt/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/pragunbhatt/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragunbhatt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pragunbhatt/leetcode/tree/master/0283-move-zeroes) |
@@ -61,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pragunbhatt/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/pragunbhatt/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/pragunbhatt/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragunbhatt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragunbhatt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -113,4 +116,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pragunbhatt/leetcode/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pragunbhatt/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pragunbhatt/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
