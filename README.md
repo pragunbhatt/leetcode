@@ -36,6 +36,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragunbhatt/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragunbhatt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pragunbhatt/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +62,7 @@
 | [0001-two-sum](https://github.com/pragunbhatt/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragunbhatt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragunbhatt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/pragunbhatt/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pragunbhatt/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pragunbhatt/leetcode/tree/master/0283-move-zeroes) |
@@ -98,6 +100,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragunbhatt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pragunbhatt/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/pragunbhatt/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
