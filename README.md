@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pragunbhatt/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/pragunbhatt/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/pragunbhatt/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragunbhatt/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
