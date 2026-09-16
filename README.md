@@ -35,6 +35,7 @@
 | [0268-missing-number](https://github.com/pragunbhatt/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragunbhatt/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/pragunbhatt/leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/pragunbhatt/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pragunbhatt/leetcode/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/pragunbhatt/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
