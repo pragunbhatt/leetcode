@@ -39,6 +39,7 @@
 | [2235-add-two-integers](https://github.com/pragunbhatt/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/pragunbhatt/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/pragunbhatt/leetcode/tree/master/2469-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/pragunbhatt/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
