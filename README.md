@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/pragunbhatt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pragunbhatt/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pragunbhatt/leetcode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/pragunbhatt/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragunbhatt/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pragunbhatt/leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -16,6 +17,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragunbhatt/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/pragunbhatt/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/pragunbhatt/leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/pragunbhatt/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/pragunbhatt/leetcode/tree/master/3110-score-of-a-string) |
