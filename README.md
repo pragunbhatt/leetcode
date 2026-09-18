@@ -17,6 +17,7 @@
 | [0242-valid-anagram](https://github.com/pragunbhatt/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/pragunbhatt/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/pragunbhatt/leetcode/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
@@ -97,6 +98,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pragunbhatt/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragunbhatt/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/pragunbhatt/leetcode/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
