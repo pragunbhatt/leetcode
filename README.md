@@ -18,6 +18,7 @@
 | [0242-valid-anagram](https://github.com/pragunbhatt/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/pragunbhatt/leetcode/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pragunbhatt/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/pragunbhatt/leetcode/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/pragunbhatt/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -99,6 +100,7 @@
 | [1470-shuffle-the-array](https://github.com/pragunbhatt/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pragunbhatt/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pragunbhatt/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pragunbhatt/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/pragunbhatt/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/pragunbhatt/leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/pragunbhatt/leetcode/tree/master/1920-build-array-from-permutation) |
