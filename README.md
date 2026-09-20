@@ -19,6 +19,7 @@
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/pragunbhatt/leetcode/tree/master/0771-jewels-and-stones) |
 | [1816-truncate-sentence](https://github.com/pragunbhatt/leetcode/tree/master/1816-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/pragunbhatt/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragunbhatt/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/pragunbhatt/leetcode/tree/master/2942-find-words-containing-character) |
@@ -57,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/pragunbhatt/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/pragunbhatt/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragunbhatt/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/pragunbhatt/leetcode/tree/master/2413-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/pragunbhatt/leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
