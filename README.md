@@ -19,6 +19,7 @@
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/pragunbhatt/leetcode/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pragunbhatt/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/pragunbhatt/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pragunbhatt/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/pragunbhatt/leetcode/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/pragunbhatt/leetcode/tree/master/2000-reverse-prefix-of-word) |
