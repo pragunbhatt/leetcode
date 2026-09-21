@@ -19,6 +19,7 @@
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/pragunbhatt/leetcode/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pragunbhatt/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/pragunbhatt/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/pragunbhatt/leetcode/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/pragunbhatt/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -47,6 +48,7 @@
 | [0268-missing-number](https://github.com/pragunbhatt/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragunbhatt/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/pragunbhatt/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/pragunbhatt/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2235-add-two-integers](https://github.com/pragunbhatt/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/pragunbhatt/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/pragunbhatt/leetcode/tree/master/2469-convert-the-temperature) |
