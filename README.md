@@ -22,6 +22,7 @@
 | [1816-truncate-sentence](https://github.com/pragunbhatt/leetcode/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/pragunbhatt/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pragunbhatt/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragunbhatt/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/pragunbhatt/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/pragunbhatt/leetcode/tree/master/3110-score-of-a-string) |
@@ -61,6 +62,7 @@
 | [0344-reverse-string](https://github.com/pragunbhatt/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/pragunbhatt/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pragunbhatt/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragunbhatt/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
@@ -107,6 +109,7 @@
 | [1920-build-array-from-permutation](https://github.com/pragunbhatt/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pragunbhatt/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pragunbhatt/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragunbhatt/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/pragunbhatt/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pragunbhatt/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
