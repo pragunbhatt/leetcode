@@ -26,6 +26,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragunbhatt/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragunbhatt/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2315-count-asterisks](https://github.com/pragunbhatt/leetcode/tree/master/2315-count-asterisks) |
 | [2942-find-words-containing-character](https://github.com/pragunbhatt/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/pragunbhatt/leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/pragunbhatt/leetcode/tree/master/3498-reverse-degree-of-a-string) |
