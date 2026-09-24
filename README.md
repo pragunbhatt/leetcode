@@ -11,6 +11,7 @@
 | [0771-jewels-and-stones](https://github.com/pragunbhatt/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragunbhatt/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pragunbhatt/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pragunbhatt/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [1678-goal-parser-interpretation](https://github.com/pragunbhatt/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pragunbhatt/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/pragunbhatt/leetcode/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pragunbhatt/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/pragunbhatt/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragunbhatt/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragunbhatt/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
