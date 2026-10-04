@@ -60,6 +60,7 @@
 | [0066-plus-one](https://github.com/pragunbhatt/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/pragunbhatt/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragunbhatt/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pragunbhatt/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/pragunbhatt/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pragunbhatt/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pragunbhatt/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -115,6 +116,7 @@
 | [0704-binary-search](https://github.com/pragunbhatt/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragunbhatt/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragunbhatt/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pragunbhatt/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragunbhatt/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pragunbhatt/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pragunbhatt/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
