@@ -1,13 +1,13 @@
 class Solution {
 public:
 
-    int search(vector<int> arr,int target, int si,int ei){
+    int search(vector<int> &arr,int target, int si,int ei){
         int mid = si + (ei-si)/2;
 
         if(si>ei){
             return -1;
         }
-        
+
         if(arr[mid] == target){
             return mid;
         }
