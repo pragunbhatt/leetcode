@@ -1,29 +1,34 @@
 class Solution {
 public:
+
+    int search(vector<int> arr,int target, int si,int ei){
+        int mid = si + (ei-si)/2;
+
+        if(si>ei){
+            return -1;
+        }
+        
+        if(arr[mid] == target){
+            return mid;
+        }
+
+        if(arr[mid]>=arr[si]){
+            if(target>=arr[si] && target<arr[mid]){
+                return search(arr,target,si,mid-1);
+            }else{
+                return search(arr,target,mid+1,ei);
+            }
+        }else{
+            if(target<=arr[ei] && target>arr[mid]){
+                return search(arr,target,mid+1,ei);
+            }else{
+                return search(arr,target,si,mid-1);
+            }
+        }
+
+    }
+
     int search(vector<int>& nums, int target) {
-        int n = nums.size();
-        int lo = 0, hi = n - 1;
-
-        while (lo < hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (nums[mid] > nums.back()) lo = mid + 1;
-            else hi = mid;
-        }
-
-        int rot = lo;
-        lo = 0, hi = n - 1;
-
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-            int real = (mid + rot) % n;
-
-            if (nums[real] == target)
-                return real;
-
-            if (nums[real] < target) lo = mid + 1;
-            else hi = mid - 1;
-        }
-
-        return -1;
+        return search(nums,target,0,nums.size()-1);
     }
 };
